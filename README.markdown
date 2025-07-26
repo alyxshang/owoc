@@ -1,12 +1,11 @@
-# OWOWC
+# OWOC
 
 ***The compiler for the OwO Markup language. :ribbon:***
 
 ## ABOUT :books:
 
 This repository contains the source code for the compiler for the OwO Markup language. 
-This language was conceptualized and designed by me. Too many people take themselves
-too seriously. :heart:
+This language was conceptualized and designed by me. :heart:
 
 ## SAMPLE AND SPEC :ribbon:
 
@@ -45,7 +44,7 @@ fn main(){
 - The number of `<3` expressions determines the level of a heading: `h1`, `h2`, `h3`, etc..
 - Since we're channeling the ***KAWAII*** energy of all kawaii creatures, the tilde is a list indicator.
 - Link elements are enclosed by normal parentheses. Text and URL are separated by an `@`.
-- Code blocks are enclosed by a cringing *kaomoji* (`>-<`) since writing code (into a document) is peak cringe.
+- Code blocks are enclosed by a cringing *kaomoji* (`>-<`).
 - Link elements are enclosed by curly parentheses. The alt text and URL are separated by an `@`.
 
 ## USAGE :gear:

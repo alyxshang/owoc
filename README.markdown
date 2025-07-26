@@ -50,7 +50,7 @@ fn main(){
 
 ## USAGE :gear:
 
-***COMING SOON!****
+***COMING SOON!***
 
 ## CHANGELOG :black_nib:
 
